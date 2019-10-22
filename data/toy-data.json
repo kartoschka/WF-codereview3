@@ -1,12 +1,12 @@
 [
   {
     "imgurl": "img/test.gif",
-    "title": "My Younger Frat Bro Can't Be This Weird",
+    "title": "James' Bond",
     "year": 2010,
-    "creators": ["BakaAnimations", "Akira Dorkowitch"],
-    "descr": "Greg is a very ordinary university student without any distinguishing features who also likes to make snarky comments. He meets a younger frat bro who is kind of a weirdo. Hilarity ensues.",
-    "numLikes": 3523,
-    "numDislikes": 1842840,
+    "creators": ["some guy with a camera", "another guy that helped"],
+    "descr": "This is a beautiful movie about a guy and his dog.",
+    "numLikes": 234234,
+    "numDislikes": 392,
     "userLikeState": -1
   },
   {
@@ -23,7 +23,7 @@
     "imgurl": "img/test.gif",
     "title": "Taxi Driver",
     "year": 1976,
-    "creators": ["Martinnen Sokkissi"],
+    "creators": ["Martin Scorcese"],
     "descr": "A documentation about the day-to-day life experiences of a happy-go-lucky taxi driver, the people he meets, he women he loves and the lives he saves with his unshakeable faith in the good of humanity and everything.",
     "numLikes": 99009,
     "numDislikes": 20000,
@@ -32,41 +32,41 @@
 
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
-    "year": 2000,
-    "creators": ["Genious Persson"],
-    "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "title": "The Moon Landing",
+    "year": 1946,
+    "creators": ["NASA", "CIA", "NSA"],
+    "descr": "This is the original \"moon landing\" footage as filmed some decades before the actual Staging. Actually created to impress the Nazis, its was then instead used in the cold war for propaganda against the Russians.",
+    "numLikes": 232323,
     "numDislikes": 9,
     "userLikeState": -1
   },
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
-    "year": 2000,
-    "creators": ["Genious Persson"],
-    "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "title": "The World After Global Warming",
+    "year": 2019,
+    "creators": ["Al Gore"],
+    "descr": "A beautiful collage of dreamy what-ifs describing a post global warming paradise full of sunshine, mojitos and Greenland as the USA's 51st state",
+    "numLikes": 39243,
     "numDislikes": 9,
     "userLikeState": -1
   },
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
-    "year": 2000,
-    "creators": ["Genious Persson"],
-    "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "title": "Odyssey",
+    "year": "ca. 1000 BC",
+    "creators": ["Homer the Greek"],
+    "descr": "This first High Fantasy epic movie to ever be created.",
+    "numLikes": 123,
     "numDislikes": 9,
     "userLikeState": 0
   },
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
+    "title": "Brad Pitt's Ass",
     "year": 2000,
-    "creators": ["Genious Persson"],
-    "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "creators": ["Brad Pitt"],
+    "descr": "Two hundred and thirty minutes full of glorious money shots of Brad Pitt's ass.",
+    "numLikes": 19932939,
     "numDislikes": 9,
     "userLikeState": -1
   },
@@ -86,7 +86,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "numLikes": 23429,
     "numDislikes": 9,
     "userLikeState": 0
   },
@@ -96,7 +96,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "numLikes": 1991,
     "numDislikes": 9,
     "userLikeState": 1
   },
@@ -106,7 +106,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "numLikes": 12343,
     "numDislikes": 9,
     "userLikeState": 0
   },
@@ -116,7 +116,17 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "numLikes": 31341,
+    "numDislikes": 9,
+    "userLikeState": 0
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 2342,
     "numDislikes": 9,
     "userLikeState": 0
   }

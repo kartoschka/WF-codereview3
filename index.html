@@ -10,12 +10,27 @@
   <script src=lib/library.js></script>
 </head>
 <body>
+  <nav id=actions-bar>
+    <button id=sort-by-id-button>Sort by ID</button>
+    <button id=sort-by-title-button>Sort by Title</button>
+    <button id=sort-by-likes-button>Sort by NumLikes</button>
+  </nav>
   <main id=items-panel></main>
-  <nav id=actions-bar></nav>
   <script>
+
     const rootelmt = document.getElementById("items-panel")
     const L = new ToyLibrary(rootelmt)
     L.load("data/toy-data.json")
+
+    document.getElementById("sort-by-id-button").addEventListener(
+      "click", () => { L.sort_by_id(); L.update() }
+    )
+    document.getElementById("sort-by-title-button").addEventListener(
+      "click", () => { L.sort_by_title(); L.update() }
+    )
+    document.getElementById("sort-by-likes-button").addEventListener(
+      "click", () => { L.sort_by_likes(); L.update() }
+    )
   </script>
 </body>
 </html>
