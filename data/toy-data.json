@@ -72,21 +72,21 @@
   },
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
-    "year": 2000,
-    "creators": ["Genious Persson"],
-    "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 999999,
+    "title": "How Dare You",
+    "year": 2019,
+    "creators": ["Greta Thunberg"],
+    "descr": "Srsly how dare you?",
+    "numLikes": 2341,
     "numDislikes": 9,
     "userLikeState": 1
   },
   {
     "imgurl": "img/test.gif",
-    "title": "Great Movie 10/10",
+    "title": "Is this the real world?",
     "year": 2000,
-    "creators": ["Genious Persson"],
+    "creators": ["or is it just fantasy?"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 23429,
+    "numLikes": 13,
     "numDislikes": 9,
     "userLikeState": 0
   },
@@ -96,7 +96,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 1991,
+    "numLikes": 239,
     "numDislikes": 9,
     "userLikeState": 1
   },
@@ -106,7 +106,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 12343,
+    "numLikes": 192,
     "numDislikes": 9,
     "userLikeState": 0
   },
@@ -116,7 +116,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 31341,
+    "numLikes": 3924,
     "numDislikes": 9,
     "userLikeState": 0
   },
