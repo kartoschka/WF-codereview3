@@ -1,0 +1,123 @@
+[
+  {
+    "imgurl": "img/test.gif",
+    "title": "My Younger Frat Bro Can't Be This Weird",
+    "year": 2010,
+    "creators": ["BakaAnimations", "Akira Dorkowitch"],
+    "descr": "Greg is a very ordinary university student without any distinguishing features who also likes to make snarky comments. He meets a younger frat bro who is kind of a weirdo. Hilarity ensues.",
+    "numLikes": 3523,
+    "numDislikes": 1842840,
+    "userLikeState": -1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Planetary Body Battles: A Novel Encouragement",
+    "year": 1977,
+    "creators": ["George Lakash", "Wolt Dusnay"],
+    "descr": "A storm is brewing in a Galaxy very, very distant from our own, where the evil forces of the Transgalactic Dominion find themselves challenged by a small but determined Opposition who pilot magic space robots using a mystical energy called 'The Power'.",
+    "numLikes": 134124,
+    "numDislikes": 3002,
+    "userLikeState": 1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Taxi Driver",
+    "year": 1976,
+    "creators": ["Martinnen Sokkissi"],
+    "descr": "A documentation about the day-to-day life experiences of a happy-go-lucky taxi driver, the people he meets, he women he loves and the lives he saves with his unshakeable faith in the good of humanity and everything.",
+    "numLikes": 99009,
+    "numDislikes": 20000,
+    "userLikeState": 0
+  },
+
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": -1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": -1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 0
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": -1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 0
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 1
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 0
+  },
+  {
+    "imgurl": "img/test.gif",
+    "title": "Great Movie 10/10",
+    "year": 2000,
+    "creators": ["Genious Persson"],
+    "descr": "This movie is so excellent that no description could do it justice.",
+    "numLikes": 999999,
+    "numDislikes": 9,
+    "userLikeState": 0
+  }
+]

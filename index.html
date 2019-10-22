@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang=en>
+<head>
+  <meta charset=utf-8>
+  <title></title>
+  <link rel=stylesheet href=style/style.css>
+  <style>
+  </style>
+  <script src=lib/util.js></script>
+  <script src=lib/library.js></script>
+</head>
+<body>
+  <main id=items-panel></main>
+  <nav id=actions-bar></nav>
+  <script>
+    const rootelmt = document.getElementById("items-panel")
+    const L = new ToyLibrary(rootelmt)
+    L.load("data/toy-data.json")
+  </script>
+</body>
+</html>
+
