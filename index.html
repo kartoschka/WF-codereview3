@@ -20,7 +20,7 @@
 
     const rootelmt = document.getElementById("items-panel")
     const L = new ToyLibrary(rootelmt)
-    L.load("data/toy-data.json")
+    L.load("data/toy-data.json", (items) => new LikeSimulator(items).exec())
 
     document.getElementById("sort-by-id-button").addEventListener(
       "click", () => { L.sort_by_id(); L.update() }

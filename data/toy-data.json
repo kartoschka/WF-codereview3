@@ -5,8 +5,7 @@
     "year": 2010,
     "creators": ["some guy with a camera", "another guy that helped"],
     "descr": "This is a beautiful movie about a guy and his dog.",
-    "numLikes": 234234,
-    "numDislikes": 392,
+    "numLikes": 7777777,
     "userLikeState": -1
   },
   {
@@ -15,8 +14,7 @@
     "year": 1977,
     "creators": ["George Lakash", "Wolt Dusnay"],
     "descr": "A storm is brewing in a Galaxy very, very distant from our own, where the evil forces of the Transgalactic Dominion find themselves challenged by a small but determined Opposition who pilot magic space robots using a mystical energy called 'The Power'.",
-    "numLikes": 134124,
-    "numDislikes": 3002,
+    "numLikes": 4,
     "userLikeState": 1
   },
   {
@@ -25,8 +23,7 @@
     "year": 1976,
     "creators": ["Martin Scorcese"],
     "descr": "A documentation about the day-to-day life experiences of a happy-go-lucky taxi driver, the people he meets, he women he loves and the lives he saves with his unshakeable faith in the good of humanity and everything.",
-    "numLikes": 99009,
-    "numDislikes": 20000,
+    "numLikes": 7,
     "userLikeState": 0
   },
 
@@ -36,8 +33,7 @@
     "year": 1946,
     "creators": ["NASA", "CIA", "NSA"],
     "descr": "This is the original \"moon landing\" footage as filmed some decades before the actual Staging. Actually created to impress the Nazis, its was then instead used in the cold war for propaganda against the Russians.",
-    "numLikes": 232323,
-    "numDislikes": 9,
+    "numLikes": 4,
     "userLikeState": -1
   },
   {
@@ -46,8 +42,7 @@
     "year": 2019,
     "creators": ["Al Gore"],
     "descr": "A beautiful collage of dreamy what-ifs describing a post global warming paradise full of sunshine, mojitos and Greenland as the USA's 51st state",
-    "numLikes": 39243,
-    "numDislikes": 9,
+    "numLikes": 3,
     "userLikeState": -1
   },
   {
@@ -56,8 +51,7 @@
     "year": "ca. 1000 BC",
     "creators": ["Homer the Greek"],
     "descr": "This first High Fantasy epic movie to ever be created.",
-    "numLikes": 123,
-    "numDislikes": 9,
+    "numLikes": 1,
     "userLikeState": 0
   },
   {
@@ -67,7 +61,6 @@
     "creators": ["Brad Pitt"],
     "descr": "Two hundred and thirty minutes full of glorious money shots of Brad Pitt's ass.",
     "numLikes": 19932939,
-    "numDislikes": 9,
     "userLikeState": -1
   },
   {
@@ -76,8 +69,7 @@
     "year": 2019,
     "creators": ["Greta Thunberg"],
     "descr": "Srsly how dare you?",
-    "numLikes": 2341,
-    "numDislikes": 9,
+    "numLikes": 3,
     "userLikeState": 1
   },
   {
@@ -86,8 +78,7 @@
     "year": 2000,
     "creators": ["or is it just fantasy?"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 13,
-    "numDislikes": 9,
+    "numLikes": 0,
     "userLikeState": 0
   },
   {
@@ -96,8 +87,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 239,
-    "numDislikes": 9,
+    "numLikes": 0,
     "userLikeState": 1
   },
   {
@@ -106,8 +96,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 192,
-    "numDislikes": 9,
+    "numLikes": 1,
     "userLikeState": 0
   },
   {
@@ -116,8 +105,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 3924,
-    "numDislikes": 9,
+    "numLikes": 2,
     "userLikeState": 0
   },
   {
@@ -126,8 +114,7 @@
     "year": 2000,
     "creators": ["Genious Persson"],
     "descr": "This movie is so excellent that no description could do it justice.",
-    "numLikes": 2342,
-    "numDislikes": 9,
+    "numLikes": 1,
     "userLikeState": 0
   }
 ]
